@@ -1,0 +1,95 @@
+{
+  "meta": {
+    "created": "2026-02-02",
+    "source": "FPC Construction discovery + Research Observatory",
+    "filter": "Only items causing frustration, stress, fear, or confusion"
+  },
+  "pain_points": [
+    {
+      "id": "pp-001",
+      "category": "technology_overwhelm",
+      "pain": "AI tools forget everything between sessions",
+      "audience": "SMB owners, developers",
+      "emotion": "frustration",
+      "source": "Research Observatory Week 01",
+      "content_angle": "Why Your AI Assistant Keeps Forgetting Things (And How to Fix It)",
+      "keywords": ["AI memory", "context persistence", "CLAUDE.md", "productivity"]
+    },
+    {
+      "id": "pp-002",
+      "category": "missed_revenue",
+      "pain": "Missing calls from potential customers",
+      "audience": "Construction contractors, service businesses",
+      "emotion": "frustration",
+      "source": "FPC Construction discovery",
+      "content_angle": "Every Missed Call Is a Missed Job: How AI Answers 24/7",
+      "keywords": ["voice agent", "missed calls", "lead capture", "construction"]
+    },
+    {
+      "id": "pp-003",
+      "category": "language_barriers",
+      "pain": "Losing Spanish-speaking customers due to language barriers",
+      "audience": "Bilingual service businesses, Hispanic contractors",
+      "emotion": "stress",
+      "source": "FPC Construction discovery",
+      "content_angle": "Your Business Speaks English. Your Customers Speak Spanish. Now What?",
+      "keywords": ["bilingual", "Spanish", "voice agent", "Hispanic business"]
+    },
+    {
+      "id": "pp-004",
+      "category": "trust_fear",
+      "pain": "Fear that AI will make mistakes and damage reputation",
+      "audience": "SMB owners",
+      "emotion": "fear",
+      "source": "SMB adoption patterns",
+      "content_angle": "What Happens When Your AI Says the Wrong Thing?",
+      "keywords": ["AI safety", "fallback", "human handoff", "trust"]
+    },
+    {
+      "id": "pp-005",
+      "category": "time_constraints",
+      "pain": "No time to learn new technology",
+      "audience": "Busy contractors, family business owners",
+      "emotion": "overwhelm",
+      "source": "SMB adoption patterns",
+      "content_angle": "You Don't Have Time to Learn AI. You Don't Have To.",
+      "keywords": ["time savings", "done for you", "automation", "busy owner"]
+    },
+    {
+      "id": "pp-006",
+      "category": "generational_concerns",
+      "pain": "Worried about passing business to next generation",
+      "audience": "Family business owners, aging contractors",
+      "emotion": "fear",
+      "source": "FPC Construction (Danna apprenticeship)",
+      "content_angle": "Teaching Your Kids the Business? AI Can Help.",
+      "keywords": ["family business", "generational", "succession", "training"]
+    },
+    {
+      "id": "pp-007",
+      "category": "technology_overwhelm",
+      "pain": "Git/deployment mistakes can break live sites",
+      "audience": "Developers, tech-curious SMB owners",
+      "emotion": "fear",
+      "source": "Research Observatory Week 01",
+      "content_angle": "The Hidden Safety Net You Didn't Know Git Had",
+      "keywords": ["git", "deployment", "safety", "version control"]
+    },
+    {
+      "id": "pp-008",
+      "category": "missed_revenue",
+      "pain": "Leads fall through the cracks without follow-up",
+      "audience": "Service businesses, contractors",
+      "emotion": "frustration",
+      "source": "FPC Construction discovery",
+      "content_angle": "The Follow-Up That Never Happens (Until Now)",
+      "keywords": ["lead follow-up", "automation", "CRM", "pipeline"]
+    }
+  ],
+  "priority_queue": [
+    "pp-001",
+    "pp-007",
+    "pp-002",
+    "pp-003"
+  ]
+}
